@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"id":	"d0ed35d4-0e01-4dce-9107-3db8c1cba2a1",
+	"author":	"Joshua Wang",
+	"description":	{
+		"":	"Assign appearances to an imported file based on face colors. Add an FDM 3D Printed appearance to selected bodies."
+	},
+	"version":	"",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
